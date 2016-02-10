@@ -1,3 +1,5 @@
+##### Draft, violent reactions are not welcome
+
 # Taga STI ka kung kabalo ka magbasa Guidelines
 There is a saying that rules are never meant to be followed but serve as guidelines. Guidelines however are for maintaining the status quo.
 
