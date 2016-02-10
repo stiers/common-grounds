@@ -6,12 +6,12 @@ There is a saying that rules are never meant to be followed but serve as guideli
 ### Overview
 The group observes [meritocracy](http://en.wikipedia.org/wiki/Meritocracy), you are most welcome to discuss inquiries that relate to your field otherwise practice the field of interest first before entering into a discussion.
 
-#### Using of #hashtags
+#### Using of #STIWNUhashtags
 This is supposed to serve as a guideline for anyone who wants to post on this group. The guide implies what topics are supposed to be discussed here. If used correctly, you should be able to do this on search.
 
-1. **#request** – all requests (meaning you’re asking someone to do something)
+1. **#STIWNUrequest** – all requests (meaning you’re asking someone to do something)
 
-2. **#announcement** – any announcements from STI Bacolod regarding scholastic events, suspension of class, school holidays, etc.
+2. **#STIWNUannouncement** – any announcements from STI Bacolod regarding scholastic events, suspension of class, school holidays, etc.
 
 ### Inquiries
 1. When posting questions, be sure that they are descriptive as possible, and make sure that no single important detail is left behind. Do not take vagueness into account like "who knows x, i have a problem".
